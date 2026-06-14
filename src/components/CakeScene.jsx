@@ -204,7 +204,7 @@ export default function CakeScene() {
           outlineWidth={0.03}
           outlineColor="#ff4d6d"
         >
-         SHERU SHARMA ✨
+         SHERU G ✨
         </Text>
       </Float>
       {/* FAIRY LIGHTS */}
